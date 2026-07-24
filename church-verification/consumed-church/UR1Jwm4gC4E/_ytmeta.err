@@ -1,0 +1,1 @@
+WARNING: [youtube] [jsc:deno] Failed to download challenge solver lib script: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1016)
