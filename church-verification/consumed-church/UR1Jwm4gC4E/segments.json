@@ -1,0 +1,49 @@
+{
+ "segments": [
+  {
+   "start": "00:00:00",
+   "end": "00:04:00",
+   "label": "other",
+   "confidence": "high",
+   "note": "title/give/connect slides"
+  },
+  {
+   "start": "00:04:00",
+   "end": "00:48:00",
+   "label": "worship",
+   "confidence": "medium",
+   "note": "NO ASR captions for this span; storyboard frames show worship band throughout"
+  },
+  {
+   "start": "00:48:00",
+   "end": "00:53:00",
+   "label": "announcements",
+   "confidence": "medium",
+   "note": "giving slides, testimony/greeting"
+  },
+  {
+   "start": "00:53:00",
+   "end": "00:56:00",
+   "label": "prayer",
+   "confidence": "medium"
+  },
+  {
+   "start": "00:56:00",
+   "end": "02:02:00",
+   "label": "message",
+   "confidence": "high",
+   "note": "Wrath - Love's Fierce Opposition to Evil"
+  },
+  {
+   "start": "02:02:00",
+   "end": "02:07:28",
+   "label": "prayer",
+   "confidence": "medium",
+   "note": "communion / response moment"
+  }
+ ],
+ "worship_minutes": 44.0,
+ "message_minutes": 66.0,
+ "ministry_minutes": 0.0,
+ "worship_to_total_ratio": 0.345
+}

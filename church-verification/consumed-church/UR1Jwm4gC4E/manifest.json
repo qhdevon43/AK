@@ -5,6 +5,6 @@
   "title": "Pastor Jon Pignatelli - Wrath, Love\u2019s Fierce Opposition to Evil -  July 12, 2026",
   "upload_date": "20260713",
   "duration_seconds": 7648,
-  "whisper_model_used": "",
-  "notes": "metadata via yt-dlp web_embedded client (datacenter IP bot-check workaround); livestream release 2026-07-12T14:56:29Z"
+  "whisper_model_used": "none \u2014 YouTube 'en-orig' auto-captions (ASR) substituted; Whisper impossible (media download blocked in sandbox, see PIPELINE_REPORT.md)",
+  "notes": "WARNING: ASR captions absent for 00:00-00:52 (worship span) \u2014 speech density unreliable there; frames confirm live worship. metadata via yt-dlp web_embedded client (datacenter IP bot-check workaround); livestream release 2026-07-12T14:56:29Z"
 }

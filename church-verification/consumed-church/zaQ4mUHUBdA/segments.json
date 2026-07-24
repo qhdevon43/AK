@@ -1,0 +1,57 @@
+{
+ "segments": [
+  {
+   "start": "00:00:00",
+   "end": "00:05:00",
+   "label": "other",
+   "confidence": "high",
+   "note": "pre-service"
+  },
+  {
+   "start": "00:05:00",
+   "end": "00:47:30",
+   "label": "worship",
+   "confidence": "high",
+   "note": "includes spontaneous adoration/prayer 44:20-47:05"
+  },
+  {
+   "start": "00:47:30",
+   "end": "00:52:30",
+   "label": "other",
+   "confidence": "medium",
+   "note": "greeting time"
+  },
+  {
+   "start": "00:52:30",
+   "end": "00:59:00",
+   "label": "announcements",
+   "confidence": "high",
+   "note": "QR giving, church center app, mission"
+  },
+  {
+   "start": "00:59:00",
+   "end": "01:01:30",
+   "label": "prayer",
+   "confidence": "medium",
+   "note": "corporate prayer over church and pastors"
+  },
+  {
+   "start": "01:01:30",
+   "end": "01:56:00",
+   "label": "message",
+   "confidence": "high",
+   "note": "Margin (sabbath, hurry, John Mark Comer refs)"
+  },
+  {
+   "start": "01:56:00",
+   "end": "02:00:38",
+   "label": "prayer",
+   "confidence": "medium",
+   "note": "communion + sending prayer"
+  }
+ ],
+ "worship_minutes": 42.5,
+ "message_minutes": 54.5,
+ "ministry_minutes": 0.0,
+ "worship_to_total_ratio": 0.352
+}

@@ -1,0 +1,36 @@
+{
+ "segments": [
+  {
+   "start": "00:00:00",
+   "end": "00:29:30",
+   "label": "worship",
+   "confidence": "high",
+   "note": "service opens directly in worship"
+  },
+  {
+   "start": "00:29:30",
+   "end": "01:01:30",
+   "label": "message",
+   "confidence": "high",
+   "note": "teaching on the anointing and healing"
+  },
+  {
+   "start": "01:01:30",
+   "end": "01:45:37",
+   "label": "ministry_time",
+   "confidence": "high",
+   "note": "healing ministry: laying on of hands, prayers over conditions, reports of pain leaving"
+  },
+  {
+   "start": "01:45:37",
+   "end": "01:46:37",
+   "label": "other",
+   "confidence": "high",
+   "note": "birthday blessing, dismissal, closing chorus"
+  }
+ ],
+ "worship_minutes": 29.5,
+ "message_minutes": 32.0,
+ "ministry_minutes": 44.1,
+ "worship_to_total_ratio": 0.277
+}

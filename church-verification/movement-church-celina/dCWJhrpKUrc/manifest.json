@@ -5,6 +5,6 @@
   "title": "Covenant Living - Abraham's Seed",
   "upload_date": "20260720",
   "duration_seconds": 5809,
-  "whisper_model_used": "",
-  "notes": "metadata via yt-dlp web_embedded client (datacenter IP bot-check workaround); livestream release 2026-07-19T13:55:10Z"
+  "whisper_model_used": "none \u2014 YouTube 'en-orig' auto-captions (ASR) substituted; Whisper impossible (media download blocked in sandbox, see PIPELINE_REPORT.md)",
+  "notes": "FRAMES-ONLY: no captions available for this video; no transcript/density/segments. Baseline grids provided as bonus visual evidence. metadata via yt-dlp web_embedded client (datacenter IP bot-check workaround); livestream release 2026-07-19T13:55:10Z"
 }

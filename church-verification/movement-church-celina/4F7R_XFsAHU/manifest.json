@@ -5,6 +5,6 @@
   "title": "Covenant Living - Your New Name",
   "upload_date": "20260713",
   "duration_seconds": 6194,
-  "whisper_model_used": "",
+  "whisper_model_used": "none \u2014 YouTube 'en-orig' auto-captions (ASR) substituted; Whisper impossible (media download blocked in sandbox, see PIPELINE_REPORT.md)",
   "notes": "metadata via yt-dlp web_embedded client (datacenter IP bot-check workaround); livestream release 2026-07-12T13:55:02Z"
 }

@@ -1,0 +1,49 @@
+{
+ "segments": [
+  {
+   "start": "00:00:00",
+   "end": "00:04:41",
+   "label": "other",
+   "confidence": "high",
+   "note": "pre-service countdown"
+  },
+  {
+   "start": "00:04:41",
+   "end": "00:28:50",
+   "label": "worship",
+   "confidence": "high"
+  },
+  {
+   "start": "00:28:50",
+   "end": "00:39:30",
+   "label": "other",
+   "confidence": "low",
+   "note": "short exhortation on Christ's intercession; offering lead-in"
+  },
+  {
+   "start": "00:39:30",
+   "end": "00:46:00",
+   "label": "announcements",
+   "confidence": "medium",
+   "note": "giving instructions, kids resources, social media promo"
+  },
+  {
+   "start": "00:46:00",
+   "end": "01:40:00",
+   "label": "message",
+   "confidence": "high",
+   "note": "Covenant Living - Freedom from Sin"
+  },
+  {
+   "start": "01:40:00",
+   "end": "01:41:03",
+   "label": "ministry_time",
+   "confidence": "low",
+   "note": "closing prayer / ministry moment; stream ends mid-prayer"
+  }
+ ],
+ "worship_minutes": 24.1,
+ "message_minutes": 54.0,
+ "ministry_minutes": 1.1,
+ "worship_to_total_ratio": 0.239
+}

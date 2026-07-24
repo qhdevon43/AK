@@ -1,0 +1,56 @@
+{
+ "segments": [
+  {
+   "start": "00:00:00",
+   "end": "00:04:50",
+   "label": "other",
+   "confidence": "high",
+   "note": "pre-service countdown"
+  },
+  {
+   "start": "00:04:50",
+   "end": "00:26:00",
+   "label": "worship",
+   "confidence": "high"
+  },
+  {
+   "start": "00:26:00",
+   "end": "00:31:30",
+   "label": "prayer",
+   "confidence": "medium",
+   "note": "exhortation on the blood / God's love, ends in corporate prayer"
+  },
+  {
+   "start": "00:31:30",
+   "end": "00:35:30",
+   "label": "announcements",
+   "confidence": "high",
+   "note": "welcome, connection card, building/school vision, giving"
+  },
+  {
+   "start": "00:35:30",
+   "end": "01:25:40",
+   "label": "message",
+   "confidence": "high",
+   "note": "Covenant Living - Your New Name (Abram/Abraham)"
+  },
+  {
+   "start": "01:25:40",
+   "end": "01:36:00",
+   "label": "worship",
+   "confidence": "high",
+   "note": "response song 'In the Name'"
+  },
+  {
+   "start": "01:36:00",
+   "end": "01:43:14",
+   "label": "ministry_time",
+   "confidence": "medium",
+   "note": "corporate declarations over needs, prayer team called up, closing worship"
+  }
+ ],
+ "worship_minutes": 31.5,
+ "message_minutes": 50.2,
+ "ministry_minutes": 7.2,
+ "worship_to_total_ratio": 0.305
+}
